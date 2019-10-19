@@ -1,4 +1,3 @@
-baseURL = "https://amplify-workshop.go-aws.com"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Amplify / AppSync / React Workshop"
